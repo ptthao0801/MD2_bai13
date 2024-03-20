@@ -1,4 +1,4 @@
-package minitest3;
+package minitest4;
 import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.List;

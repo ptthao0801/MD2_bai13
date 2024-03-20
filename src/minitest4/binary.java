@@ -1,4 +1,4 @@
-package minitest3;
+package minitest4;
 
 public class binary {
     public static int binarySearch(int[] list, int key){

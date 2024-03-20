@@ -1,11 +1,11 @@
-package minitest3;
+package minitest4;
 
-public class meat {
+public class flour {
     private String name;
     private int weight;
     private int price;
 
-    public meat(String name, int weight, int price) {
+    public flour(String name, int weight, int price) {
         this.name = name;
         this.weight = weight;
         this.price = price;

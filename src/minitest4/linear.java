@@ -1,4 +1,4 @@
-package minitest3;
+package minitest4;
 
 public class linear {
     public static int linearSearch(int[] array, int value) {
